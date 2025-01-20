@@ -1,5 +1,4 @@
 "use client";
-// src/components/StarGrid.tsx
 
 import { useRef } from "react";
 import gsap from "gsap";
